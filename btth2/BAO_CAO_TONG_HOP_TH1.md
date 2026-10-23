@@ -7,7 +7,7 @@ Dự án: D:\flutter\btth1
 
 # BÁO CÁO KỸ THUẬT - YÊU CẦU 1
 
-PHÂN TÍCH YÊU CẦU CHỨC NĂNG VÀ THIẾT KẾ SƠ ĐỒ LUỒNG DỮ LIỆU 
+PHÂN TÍCH YÊU CẦU CHỨC NĂNG VÀ THIẾT KẾ SƠ ĐỒ LUỒNG DỮ LIỆU
 ỨNG DỤNG QUẢN LÝ TÀI LIỆU HỌC TẬP
 
 
